@@ -13,6 +13,10 @@ app.get('/prognoza', routes.prognoza)
 //zadatak 102
 app.get("/dodaj", dodaj);
 app.get("/dohvati", dohvati);
+//zadatak104
+app.get('/studenti', routes.studenti)
+app.get('/studenti/first', routes.studenti_first)
+app.get('/studenti/last', routes.studenti_last)
 
 app.listen(port, () => console.log(`Slušam na portu ${port}!`))
 

@@ -1,0 +1,34 @@
+{
+    "studenti": [
+        {
+            "JMBAG": "123456789" ,
+            "Ime": "Klaudia",
+            "Prezime": "Bučić", 
+            "Godina studija": "3"
+        },
+        {
+            "JMBAG": "987654321", 
+            "Ime": "Karla", 
+            "Prezime": "Jakša", 
+            "Godina studija": "5"
+        },
+        {
+            "JMBAG": "53216789", 
+            "Ime": "Marin", 
+            "Prezime": "Tikaz", 
+            "Godina studija": "1"
+        },
+        {
+            "JMBAG": "098754321", 
+            "Ime": "Denis", 
+            "Prezime": "Buić", 
+            "Godina studija": "2"
+        },
+        {
+            "JMBAG": "0123456789", 
+            "Ime": "Iva", 
+            "Prezime": "Belić", 
+            "Godina studija": "4"
+        }
+    ]
+}
