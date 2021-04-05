@@ -1,5 +1,6 @@
 import lista from "./lista";
 
+//zadatak 102
 function rand(broj) {
     return Math.floor(Math.random() * broj);
   };

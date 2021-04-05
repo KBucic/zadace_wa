@@ -6,10 +6,11 @@ import dohvati from "./dohvati";
 const app = express() // instanciranje aplikacije
 const port = 9000 // port na kojem će web server slušati
 
-
-app.get('/', routes.adresa)
+//zadatak 101
+app.get('/', routes.adresa) 
 app.get('/datum', routes.datum)
 app.get('/prognoza', routes.prognoza)
+//zadatak 102
 app.get("/dodaj", dodaj);
 app.get("/dohvati", dohvati);
 
